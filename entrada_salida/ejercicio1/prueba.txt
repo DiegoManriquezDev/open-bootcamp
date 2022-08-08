@@ -1,5 +1,2 @@
-Primer linea del fichero
-Segunda linea del fichero
-Tercer linea del fichero
-Cuarta linea del fichero
-Practica
+1
+2
